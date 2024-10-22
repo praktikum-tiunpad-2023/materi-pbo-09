@@ -5,9 +5,5 @@ class: text-center
 
 # Tugas Kelompok!
 
-Silakan isi daftar anggota kelompok dalam spreadsheet di bawah untuk persiapan proyek PBO.
-
-https://s.id/1WdqK
-
-Kolom Ide Proyek dapat diisi setelah info proyek disampaikan melalui discord.
+TO BE ANNOUNCED LATER......
 
